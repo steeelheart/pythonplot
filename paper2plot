@@ -30,3 +30,5 @@ for i in range(2):
 for i in range(2):
     axes.annotate(y2[i],(x[i],y2[i]),xytext=(-5, 5),ha='right',textcoords='offset points')
 plt.legend( loc='upper left', numpoints = 1 )
+
+
